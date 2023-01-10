@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Android Developer
 -----------------
 
-I've been coding since I was 12. I started with HTML, CSS, and PHP. After some time I switched to Java and in 2018 started to develop native Android apps. In the meantime, I was also learning how to build mobile games with Unity and C#. In 2022 I switched to Kotlin.
+I've been coding since I was 12. I started with HTML, CSS, and PHP. After some time I switched to Java and in 2018 started to develop native Android apps. In the meantime, I was also learning how to build mobile games with Unity, C# and Blender. In 2022 I switched to Kotlin.
 
 * 🌍  I'm based in Rzeszów, Poland
 * 🚀  I'm currently working on [Blue Thread](http://play.google.com/store/apps/details?id=com.bluethread.bluethread)
